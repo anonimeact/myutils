@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/anonimeact/Documents/Repository/MyUtils/nativemask/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/anonimeact/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/anonimeact/Documents/Repository/MyUtils/nativemask/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"base-lib-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "base-lib",
+			"buildCommand" : "/Users/anonimeact/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/anonimeact/Documents/Repository/MyUtils/nativemask/.externalNativeBuild/cmake/debug/arm64-v8a --target base-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/anonimeact/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/anonimeact/Library/Android/sdk/ndk-bundle/sysroot  -Dbase_lib_EXPORTS -isystem /Users/anonimeact/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/anonimeact/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/anonimeact/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/anonimeact/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/anonimeact/Documents/Repository/MyUtils/nativemask/src/main/cpp/base-lib.cpp",
+					"workingDirectory" : "/Users/anonimeact/Documents/Repository/MyUtils/nativemask/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "/Users/anonimeact/Documents/Repository/MyUtils/nativemask/build/intermediates/cmake/debug/obj/arm64-v8a/libbase-lib.so",
+			"toolchain" : "9980884857381682703"
+		}
+	},
+	"toolchains" : 
+	{
+		"9980884857381682703" : 
+		{
+			"cCompilerExecutable" : "/Users/anonimeact/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/anonimeact/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

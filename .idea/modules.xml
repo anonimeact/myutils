@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyUtils.iml" filepath="$PROJECT_DIR$/MyUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compressimageuri/compressimageuri.iml" filepath="$PROJECT_DIR$/compressimageuri/compressimageuri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpsnetwork/gpsnetwork.iml" filepath="$PROJECT_DIR$/gpsnetwork/gpsnetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapspolyline/mapspolyline.iml" filepath="$PROJECT_DIR$/mapspolyline/mapspolyline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nativemask/nativemask.iml" filepath="$PROJECT_DIR$/nativemask/nativemask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permission/permission.iml" filepath="$PROJECT_DIR$/permission/permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest/rest.iml" filepath="$PROJECT_DIR$/rest/rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roundedimage/roundedimage.iml" filepath="$PROJECT_DIR$/roundedimage/roundedimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/takeimage/takeimage.iml" filepath="$PROJECT_DIR$/takeimage/takeimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utility/utility.iml" filepath="$PROJECT_DIR$/utility/utility.iml" />
+    </modules>
+  </component>
+</project>
